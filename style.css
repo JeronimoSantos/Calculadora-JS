@@ -14,7 +14,11 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #f7f7f7;
+    background-image: url(/img/papel-calculadora-js.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .conteiner-calculadora {
